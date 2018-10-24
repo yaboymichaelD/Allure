@@ -1,4 +1,4 @@
-@import url("//fonts.googleapis.com/css?family=Lobster|Cabin:400,700");
+@import url("//fonts.googleapis.com/css?family=Kaushan+Script|Cabin:400,700");
 
 body {
   font-family: "Cabin", Arial, sans-serif;
@@ -9,17 +9,21 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Lobster', cursive;
+  font-family: 'Kaushan Script', cursive;
 }
 
 .navbar {
-  background-color: #dc84ff;
-  border-color: #606060;
+  background-color: #353535;
+  border-color: #353535;
 }
 
 .navbar-brand {
-  font-family: 'Helvetica', cursive;
+  font-family: 'Kaushan Script', cursive;
+  color: #70ffb2; 
 }
+
+.navbar-brand:hover{ 
+color:#ffffff; }
 
 .banner {
   margin-top: 4em;
